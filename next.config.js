@@ -33,7 +33,7 @@ const nextConfig = {
   
   // Output optimization
   experimental: {
-    optimizeCss: true,
+    // optimizeCss: true, // Disabled - requires critters package
     optimizePackageImports: ['framer-motion', 'react-icons'],
   },
   
