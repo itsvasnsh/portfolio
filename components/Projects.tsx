@@ -34,8 +34,8 @@ const Projects = () => {
         'AWS S3', 'Docker'
       ],
       videoLink: 'https://drive.google.com/file/d/1kwVKcKvi2flRWhUAi5pX9r_8PuKkH5Tn/view?usp=drive_link',
-      githubLink: '#', // Add your GitHub repo link
-      liveLink: '#', // Add your live demo link
+      githubLink: 'https://github.com/itsvasnsh/image', // Add your GitHub repo link
+      liveLink: 'https://image-238x.vercel.app', // Add your live demo link
       gradient: 'from-blue-50 via-indigo-50 to-purple-50'
     },
     {

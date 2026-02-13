@@ -31,7 +31,7 @@ const Certificates = () => {
       description: 'Intensive full-stack development bootcamp covering modern web technologies, frontend and backend development, databases, deployment strategies, and industry best practices.',
       color: 'from-blue-500 to-cyan-500',
       skills: ['React', 'Node.js', 'MongoDB', 'DevOps', 'System Design'],
-      link: 'https://drive.google.com/file/d/YOUR_CERTIFICATE_2_LINK/view'
+      link: 'https://drive.google.com/file/d/1lzVNn1m9D363zykpBVr_yjE4IekS8Uv7/view?usp=drive_link'
     },
   ]
 
